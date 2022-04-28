@@ -1,5 +1,5 @@
 /*
- * @Description: 
+ * @Description:
  * @Author: ZY
  * @Date: 2020-12-09 11:15:59
  * @LastEditors: ZY
@@ -15,7 +15,7 @@ const vueDefaultConfig = {
     title: 'vue3-ts-composition-admin-template',
     titleSeparator: ' - ',
     titleReverse: false,
-    devPort: '9999',
+    devPort: '8000',
     abbreviation: 'vt2at',
     providePlugin: {},
     build7z: false,
@@ -23,4 +23,3 @@ const vueDefaultConfig = {
 }
 
 module.exports = vueDefaultConfig
-  

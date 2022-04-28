@@ -12,6 +12,7 @@ import { Settings } from './default/setting.config'
 
 type CustomConfig = NetworkConfig  & Theme & Settings
 
+// @ts-ignore
 const customConfig: CustomConfig = {
 
 }
